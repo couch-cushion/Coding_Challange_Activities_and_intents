@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Coding Challange Activities and intents</string>
+
+    <string name="paragraph_1">
+       If you used any sources (i.e. websites, books, videos, etc.) to help support your points and write your paper, you need to cite them! Most teachers will ask you to create a bibliography in MLA format. Others may have you one in APA format, or create references in Chicago style. Ask your teacher for guidance on what citation style they prefer.</string>
+    <string name="paragraph_2">
+        Don’t forget that you aren’t limited to using this type of essay for just persuasion. You can also use it to relate a narrative tale, using the three parts as the beginning, middle, and end of a story. You can use this to craft an informative essay. See if other types of essays–such as a process analysis or an evaluation–will fit inside the three-paragraph essay format.
+    </string>
+    <string name="paragraph_3">
+       In many ways, the three-paragraph essay is similar to the five-paragraph essay. They both make a solid point using an introduction, body, and conclusion. This simpler essay only requires that you condense your points into one body paragraph, perhaps only one supporting point, before reaching a conclusion. Again, this can make a good exercise for beginning English writers, but can also make a challenge for a more advanced writer to select their strongest supporting points.
+    </string>
 </resources>
